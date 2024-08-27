@@ -14,13 +14,13 @@ Deployment Spells: Heroku, Netlify, or AWS—I’ve got the incantations to depl
 
 <h2>  My Spellbook </h2>
 
-🌐 Portfolio: Check out my portfolio website to see my latest enchantments.
+🌐 Portfolio: https://eztodeubg.in Check out my portfolio website to see my latest enchantments.
 
 📚 Blog: I occasionally scribble tech spells on my blog. Expect React rants and backend brews.
 
 🎮 Side Quests: When I’m not coding, I’m probably battling dragons in Skyrim or exploring dungeons in Zelda.
 Let’s Connect!
 
-📬 Shoot me an owl (or an email) at your.email@example.com. I’m always up for a chat about code, cats, or conspiracy theories (did you know JavaScript was invented by aliens? 🛸).
+📬 Shoot me an owl (or an email) at eztodebug@gmail.com. I’m always up for a chat about code, cats, or conspiracy theories (did you know JavaScript was invented by aliens? 🛸).
 
 Remember, bugs are just mischievous gremlins—I’ll squash 'em for you! 🪲✨
