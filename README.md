@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abhishek Shaw</h1>
-<p>A passionate Full Stack Developer</p>
+<p>A passionate Full Stack Developer with a knack for creating dynamic, responsive, and user-friendly web applications. With experience in both front-end and back-end technologies, I thrive on transforming ideas into reality by leveraging the latest tools and frameworks.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
